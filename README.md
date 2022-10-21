@@ -21,8 +21,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Here](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62/hub/stats-preview-card-component-solution-using-flexbox-jHUEiFp-U5)
+- Live Site URL: [Here](https://mericbatuhan42.github.io/stats_preview_card_component/)
 
 ## My process
 
